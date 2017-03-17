@@ -216,15 +216,15 @@ sprite-retina ($collapsed-background-map, 'keep')
   overflow: hidden;
   top: 0;
   left: 0;
-  background-color: #666666;
+  background-color: #999999;
   cursor: pointer; }
   #adRoot img {
     position: absolute; }
   #adRoot .cta {
     width: 80px;
     height: 20px;
-    background-color: #ff0000;
-    color: #666666;
+    background-color: #ff1100;
+    color: #999999;
     text-align: center;
     left: 110px;
     top: 115px; }
